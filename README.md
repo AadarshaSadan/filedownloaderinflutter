@@ -173,8 +173,10 @@ class DownloadFilePage extends StatelessWidget {
 4. Run the app:
 
 Use the following command to run the app on your device or emulator:
-
+```sh
 flutter run
+
+```
 
 
 5.Notes
